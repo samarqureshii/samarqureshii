@@ -1,4 +1,4 @@
-### 👋 Howdy!
+### 👋 Hey there!
 
 
 🔭 I’m currently a grade 12 student with an interest in robotics and software development. <br />
