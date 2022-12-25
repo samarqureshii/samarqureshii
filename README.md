@@ -5,9 +5,9 @@
 
 **`Designer, builder, and programmer`**
 
-- ⚡ Currently studying <a href="https://www.ece.utoronto.ca">Electrical and Computer Engineering at the University of Toronto</a>
+- ⚡ I'm currently studying <a href="https://www.ece.utoronto.ca">Electrical and Computer Engineering at the University of Toronto</a>
 - 📄 Check out <a href="https://docs.google.com/document/d/1XiXg-SPl-_lowuqWDazJ-_RT4D0007__66LZqddDRBc/edit?usp=share_link">my resume</a>
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedin!</a>
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedin</a>
 
 
 ---
