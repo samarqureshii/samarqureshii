@@ -5,7 +5,7 @@
 **`Designer, builder, and programmer`**
 
 - ⚡ First year student studying <a href="https://www.ece.utoronto.ca">Electrical and Computer Engineering at the University of Toronto</a>
-- 📬 Shoot me an email at <a href="mailto:samarq713@gmail.com">samarq713@gmail.com</a>  
+- 📬 Email me at <a href="mailto:samarq713@gmail.com">samarq713@gmail.com</a>  
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedin</a>
 
 ---
