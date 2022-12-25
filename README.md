@@ -2,12 +2,10 @@
 
 <br />
 
-
 **`Designer, builder, and programmer`**
 
 - ⚡ I'm currently studying <a href="https://www.ece.utoronto.ca">Electrical and Computer Engineering at the University of Toronto</a>
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedin</a>
-
 
 ---
 
