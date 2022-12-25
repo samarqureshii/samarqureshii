@@ -3,10 +3,11 @@
 <br />
 
 
-> Designer, builder, and programmer
+**`Designer, builder, and programmer`**
 
-- ⚡ Studying Electrical and Computer Engineering at the University of Toronto
-- 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedi!n</a>
+- ⚡ Currently studying Electrical and Computer Engineering at the University of Toronto
+- 📄 Check out <a href="https://docs.google.com/document/d/1XiXg-SPl-_lowuqWDazJ-_RT4D0007__66LZqddDRBc/edit?usp=share_link">my resume</a>
+- 🤝 Connect with me on <a href="https://www.linkedin.com/in/samar-qureshi">Linkedin!</a>
 
 
 ---
