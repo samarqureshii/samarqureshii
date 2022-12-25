@@ -3,7 +3,7 @@
 <br />
 
 
-**`Another (struggling) engineering student`**
+**`Designer, Builder, Programmer`**
 
 Description
 
