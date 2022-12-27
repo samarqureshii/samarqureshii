@@ -35,9 +35,9 @@
 
 #
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
-[![Samar's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarqureshii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Samar's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarqureshii&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
