@@ -37,7 +37,7 @@
 
 ### 📊 Stats
 
-![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarqureshii&show_icons=true&theme=gruvbox)
+[![Samar's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarqureshii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
