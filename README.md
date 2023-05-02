@@ -2,10 +2,6 @@
 
 <br />
 
-
-- ⚡ I'm a first year student studying <a href="https://www.ece.utoronto.ca">Electrical and Computer Engineering at the University of Toronto</a>
-- 🤖 Interested in hardware design and embedded systems
-
 <a href="https://www.linkedin.com/in/samar-qureshi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
