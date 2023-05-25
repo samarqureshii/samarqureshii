@@ -1,4 +1,4 @@
-# 🌱 Samar Qureshi
+# 🌱 [Samar Qureshi](https://www.samarq.org)
 
 ---
 
