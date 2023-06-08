@@ -1,7 +1,6 @@
 # 🌱 [Samar Qureshi](https://www.samarq.org)
 
-I like space and electronics 
-
+yo
 ---
 
 ### ⚙️ Languages and Tools
