@@ -1,7 +1,6 @@
 # 🌱 [Samar Qureshi](https://www.samarq.org)
 
-yo
----
+hardware and plant enthusiast
 
 ### ⚙️ Languages and Tools
 
