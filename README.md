@@ -1,6 +1,6 @@
-# howdy world 👋 
+# howdy world, I'm  [Samar](https://www.samarq.org)👋 
 
-My name is [Samar](https://www.samarq.org). I'm in my second year of [Electrical and Computer Engineering at the University of Toronto](https://www.ece.utoronto.ca) with current interests in computer architecture/hardware, operating systems, ASIC design, and radio frequency.
+I'm in my second year of [Electrical and Computer Engineering at the University of Toronto](https://www.ece.utoronto.ca) with current interests in computer architecture/hardware, operating systems, ASIC design, and radio frequency.
 
 <br>
 
