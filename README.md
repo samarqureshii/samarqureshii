@@ -1,8 +1,8 @@
 # howdy world, [Samar](https://www.samarq.org) here 👋 
 
 ## a bit about me 
-- [Electrical and Computer Engineering 2T6 @ University of Toronto](https://www.ece.utoronto.ca)
-## current interests:
+- I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
+- My current interests lie in:
 ```
 > Computer Architecture/Hardware
 > Operating Systems
