@@ -1,7 +1,8 @@
-# howdy world, [Samar](https://www.samarq.org) here 👋 
+# howdy world, Samar here 👋 
 
 ## a bit about me 
 - I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
+- I sometimes write about stuff on my [portfolio/blog]((https://www.samarq.org))
 - My current interests lie in:
 ```
 > Computer Architecture/Hardware
