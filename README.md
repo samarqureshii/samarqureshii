@@ -1,6 +1,6 @@
-# howdy world, Samar here 👋 
+# Howdy world, [Samar here](https://www.samarq.org) 👋 
+### Sometimes, I build stuff.
 
-## a bit about me 
 - I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
 - My current interests lie in:
 ```
