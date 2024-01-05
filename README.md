@@ -7,7 +7,7 @@
 > Computer Architecture/Hardware
 > Operating Systems
 > ASIC Design
-> Radio Frequency
+> Radio Frequency/Digital Signal Processing
 ```
 
 
