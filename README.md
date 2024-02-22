@@ -4,10 +4,10 @@
 - I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
 - My current interests lie in:
 ```
-> Computer Architecture/Hardware
+> Computer Architecture
 > Operating Systems
-> ASIC Design
-> Radio Frequency/Digital Signal Processing
+> Mixed Signal Design
+> Radio Frequency
 ```
 
 
