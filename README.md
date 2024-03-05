@@ -1,4 +1,4 @@
-# Howdy world, [Samar here](https://www.samarq.org) 👋 
+# `hello world`, [Samar here](https://www.samarq.org) 👋 
 ### Sometimes, I build stuff.
 
 - I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
