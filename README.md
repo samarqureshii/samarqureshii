@@ -1,10 +1,10 @@
 # `hello world`, Samar here 👋 
 ### I like to build stuff.
 
-- I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
+- I'm in my second year of [Electrical and Computer Engineering](https://www.ece.utoronto.ca) at the University of Toronto
 - [What I'm currently up to](https://www.samarq.org)
-- My current interests lie in:
-```
+- My current interests:
+```text
 > Computer Architecture
 > Operating Systems
 > Mixed Signal Design
