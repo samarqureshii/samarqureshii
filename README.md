@@ -4,7 +4,7 @@
 - I'm in my second year of [Electrical and Computer Engineering](https://www.ece.utoronto.ca) at the University of Toronto
 - [What I'm currently up to](https://www.samarq.org)
 - My current interests:
-```text
+```java
 > Computer Architecture
 > Operating Systems
 > Mixed Signal Design
