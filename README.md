@@ -1,7 +1,8 @@
-# `hello world`, [Samar here](https://www.samarq.org) 👋 
-### Sometimes, I build stuff.
+# `hello world`, Samar here 👋 
+### I like to build stuff.
 
 - I'm in my second year of [Electrical and Computer Engineering @ University of Toronto](https://www.ece.utoronto.ca)
+- [What I'm currently up to](https://www.samarq.org)
 - My current interests lie in:
 ```
 > Computer Architecture
