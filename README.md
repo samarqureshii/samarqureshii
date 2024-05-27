@@ -1,5 +1,6 @@
 # `hello world`, Samar here 👋 
-### I like to build stuff.
+### Hardware and embedded hobbyist.
+#### (I like to build stuff.)
 
 - I'm in my second year of [Electrical and Computer Engineering](https://www.ece.utoronto.ca) at the University of Toronto
 - Check out [my portfolio](https://www.samarq.org) to see what I'm currently up to
