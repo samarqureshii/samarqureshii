@@ -1,4 +1,4 @@
-# `hello world`, Samar here 👋 
+# `hello world, Samar here 👋` 
 ### Hardware and embedded hobbyist.
 #### (I like to build stuff.)
 
