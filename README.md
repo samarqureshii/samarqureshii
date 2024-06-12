@@ -3,14 +3,15 @@
 ##### Looking for summer 2025 opportunities to build cool stuff. 
 
 - I'm headed into my third year of [Electrical and Computer Engineering](https://www.ece.utoronto.ca) at the University of Toronto
-- Developing [Tesla's Autopilot training computer, Dojo](https://www.youtube.com/watch?v=ODSJsviD_SU&t=7020s)
-- Check out [my portfolio](https://www.samarq.org) to see what I'm currently up to
+- Currently developing [Tesla's Autopilot training computer, Dojo](https://www.youtube.com/watch?v=ODSJsviD_SU&t=7020s)
+- Check out [my portfolio](https://www.samarq.org) to see more of what I'm up to
 - My interests at the moment:
 ```
 > Computer Architecture
 > Operating Systems
 > Mixed Signal Design
 > ML Accelerators
+> Collecting houseplants!
 ```
 
 
