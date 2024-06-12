@@ -1,7 +1,6 @@
 # `hello world, Samar here 👋` 
-### Hardware and embedded hobbyist.
-#### (I like to build stuff.)
-##### Looking for summer 2025 opportunities. Let's chat!
+### Hardware and embedded hobbyist. 
+##### Looking for summer 2025 opportunities to build cool stuff. 
 
 - I'm headed into my third year of [Electrical and Computer Engineering](https://www.ece.utoronto.ca) at the University of Toronto
 - Developing [Tesla's Autopilot training computer, Dojo](https://www.youtube.com/watch?v=ODSJsviD_SU&t=7020s)
