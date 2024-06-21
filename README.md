@@ -8,8 +8,8 @@
 - My interests at the moment:
 ```
 > Computer Architecture
+> Power Electronics
 > Operating Systems
-> Mixed Signal Design
 > ML Accelerators
 > Collecting houseplants!
 ```
