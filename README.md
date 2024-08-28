@@ -7,8 +7,9 @@
 - check out [my portfolio](https://www.samarq.org) to see more of what I'm up to
 - my interests at the moment:
 ```
-> computer Architecture
+> computer architecture
 > power electronics
+> high-speed digital design
 > operating systems
 > ML accelerators
 > collecting houseplants!
