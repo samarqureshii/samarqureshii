@@ -10,7 +10,7 @@
 > computer architecture
 > power electronics
 > high-speed digital design
-> operating systems
+> operating systems + compilers
 > ML accelerators
 > collecting houseplants!
 ```
