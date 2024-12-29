@@ -9,7 +9,7 @@
 ```
 > computer architecture
 > power electronics
-> high-speed digital design
+> high-speed digital design / microwave circuits
 > operating systems / compilers
 > ML accelerators / HPC
 > collecting houseplants!
