@@ -1,5 +1,6 @@
 # `hello world, Samar here 👋` 
 ### hardware and embedded hobbyist
+my interests at the moment:
 ```
 > computer architecture
 > power electronics
